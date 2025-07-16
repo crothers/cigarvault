@@ -37,6 +37,6 @@ main:
   - parent: Featured Brands
     name: Definition
     url: definition/
-  - parent: Featured Brands
+  - parent: Featured Cigar Brands
     name: RoMa Craft
     url: romacraft/
