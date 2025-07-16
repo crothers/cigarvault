@@ -31,11 +31,11 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "navy"
+        color: "black"
         image:
           # Add your image background to `assets/media/`.
           # filename: smoke-cloud-png-isolated-on-black-background.jpg
-          filename: bg-triangles.svg
+          filename: smoke.svg
           filters:
             brightness: 0.5
   - block: stats
