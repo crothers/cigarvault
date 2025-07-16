@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Cigar Vault Texas # Website name
+title: Test # Website name
 baseURL: 'https://cigarvaulttexas.com/' # Website URL
 
 ############################
