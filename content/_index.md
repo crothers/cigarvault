@@ -10,7 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Cigar Vault Texas
+      title: test
+      # title: Cigar Vault Texas
       text: 
       primary_action:
         text: Join the Community
