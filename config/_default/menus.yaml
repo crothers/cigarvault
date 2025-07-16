@@ -28,13 +28,13 @@ main:
   - name: Announcements
     url: /#announcements
     weight: 40
-  - name: Featured Brands
+  - name: Featured Cigar Brands
     weight: 50
     hasChildren: true
-  - parent: Featured Brands
+  - parent: Featured Cigar Brands
     name: Aladino
     url: aladino/
-  - parent: Featured Brands
+  - parent: Featured Cigar Brands
     name: Definition
     url: definition/
   - parent: Featured Cigar Brands
