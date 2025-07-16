@@ -6,15 +6,37 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
+  - name: Lounges
+    url: /#lounges
     weight: 20
-  - name: Solutions
-    url: /#solutions
-    weight: 30
-  - name: Resources
-    weight: 40
     hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+  - parent: Lounges
+    name: Buda
+    url: buda/
+  - parent: Lounges
+    name: East Austin
+    url: eastaustin/
+  - parent: Lounges
+    name: San Marcos
+    url: sanmarcos/
+  - parent: Lounges
+    name: Bee Cave
+    url: beecave/
+  - name: Events
+    url: /#events
+    weight: 30
+  - name: Announcements
+    url: /#announcements
+    weight: 40
+  - name: Featured Brands
+    weight: 50
+    hasChildren: true
+  - parent: Featured Brands
+    name: Aladino
+    url: aladino/
+  - parent: Featured Brands
+    name: Definition
+    url: definition/
+  - parent: Featured Brands
+    name: RoMa Craft
+    url: romacraft/
