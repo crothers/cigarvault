@@ -11,11 +11,11 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Business
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Cigar Vault Texas is a collection of cigar lounges in unique Texas neighborhoods focusing on boutique, small-batch cigar brands and community.'
+    twitter: 'CigarVaultTexas'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,18 +36,18 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.png"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      text: "Follow us on Instagram"
+      url: "https://www.instagram.com/cigarvaulteast?igsh=MWFieXpoYzc3YTBpcw==/"
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} Cigar Vault Texas'
 
 # Localization
 locale:
