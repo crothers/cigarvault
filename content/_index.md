@@ -12,10 +12,9 @@ sections:
     content:
       title: Cigar Vault Texas
       text: Cigars   -   Conversation   -   Community
-      color: "yellow"
       primary_action:
-        text: Cigar Vault Mission
-        url: "/mission/"
+        text: Cigar Vault Story
+        url: "/story/"
       secondary_action:
         text: Join the Community
         url: "/discord/"
