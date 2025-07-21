@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2025-07-04
 type: landing
 
 design:
@@ -12,6 +12,7 @@ sections:
     content:
       title: Cigar Vault Texas
       text: Cigars   -   Conversation   -   Community
+      color: yellow
       primary_action:
         text: Cigar Vault Mission
         url: "/mission/"
