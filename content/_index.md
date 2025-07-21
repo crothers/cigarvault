@@ -12,7 +12,7 @@ sections:
     content:
       title: Cigar Vault Texas
       text: Cigars   -   Conversation   -   Community
-      color: yellow
+      color: "yellow"
       primary_action:
         text: Cigar Vault Mission
         url: "/mission/"
