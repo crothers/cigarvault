@@ -39,6 +39,7 @@ header:
       filename: "logo.png"
     button:
       enable: true
+      icon: brands/instagram
       text: "Follow us on Instagram"
       url: "https://www.instagram.com/cigarvaulteast?igsh=MWFieXpoYzc3YTBpcw==/"
     show_search: true
