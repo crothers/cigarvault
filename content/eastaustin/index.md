@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Cigar Vault East Austin
-      text: 
+      text: "Hours" 
       primary_action:
         text: Cigar Vault Story
         url: "/story/"
