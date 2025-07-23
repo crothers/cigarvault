@@ -11,13 +11,19 @@ sections:
   - block: hero
     content:
       title: Cigar Vault East Austin
-      text: "Hours" 
-      primary_action:
-        text: Cigar Vault Story
-        url: "/story/"
+      text: "2501 E Cesar Chavez St, Austin, TX 78702<br>
+      (512) 861-5400<br>
+      HOURS:<br>
+      Sunday 12–10 PM<br>
+      Monday 12–8 PM<br>
+      Tuesday 12–8 PM<br>
+      Wednesday 12–8 PM<br>
+      Thursday 12–10 PM<br>
+      Friday 12–11 PM<br>
+      Saturday 12–11 PM"
       secondary_action:
-        text: Join the Community
-        url: "/discord/"
+        text: Follow us on Instagram
+        url: "https://www.instagram.com/cigarvaulteast?igsh=MWFieXpoYzc3YTBpcw==/"
       announcement:
         text: 
         link:
