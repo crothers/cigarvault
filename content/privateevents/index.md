@@ -11,35 +11,7 @@ sections:
   - block: hero
     content:
       title: After Hours at the Vault
-      text: "Bachelor parties - Birthdays - Celebration
-        The Cigar Vault hosts private events after hours at several of our venues.
-
-        Private Events at the Cigar Vault include:
-        a guided tour by a tobacconist
-        curated cigar selections
-        personal or personalized music playlists.
-
-        After Hours events are BYOB making them one of the best values in 
-        Cigar Vault supplies glasses, ice, and mixers.
-
-        We will reach out shortly to answer questions and organize your event:
-
-        Contact form:
-        First Name
-        Last Name
-        Phone number
-        Email address
-        Organization*
-
-        Event Details:
-        Event type:
-        Number of People:
-        Preferred Location:
-        East Austin
-        Bee Cave
-        Preferred Date:
-        Bar Setup: y/n
-      "
+      text: "Bachelor parties - Birthdays - Celebration"
       secondary_action:
         text: Contact  with additional questions.
         url: "mailto:privateevents@cigarvaulttexas.com"
