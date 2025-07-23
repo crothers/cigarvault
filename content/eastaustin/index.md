@@ -37,20 +37,6 @@ sections:
           filename: smoke.svg
           filters:
             brightness: 0.5
-  - block: stats
-    content:
-      items:
-        - statistic: "4"
-          description: |
-            Cigar Vault Lounges   
-            in Central Texas
-        - statistic: "100+"
-          description: |
-            cigar brands carried  
-        - statistic: "1000+"
-          description: |
-            Cigar Vault   
-            community members
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
