@@ -42,6 +42,8 @@ header:
       text: "Follow us on Instagram"
       url: "https://www.instagram.com/cigarvaulteast?igsh=MWFieXpoYzc3YTBpcw==/"
       icon: brands/instagram
+    icon: brands/instagram
+    url: https://www.instagram.com/
     show_search: true
     show_theme_chooser: true
 
