@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: dark
-  color: indigo
+  color: black
 
 # SEO
 marketing:
@@ -39,9 +39,9 @@ header:
       filename: "logo.png"
     button:
       enable: true
-      icon: brands/instagram
       text: "Follow us on Instagram"
       url: "https://www.instagram.com/cigarvaulteast?igsh=MWFieXpoYzc3YTBpcw==/"
+      icon: brands/instagram
     show_search: true
     show_theme_chooser: true
 
