@@ -40,3 +40,7 @@ main:
   - parent: Featured Cigar Brands
     name: RoMa Craft
     url: romacraft/
+  - name: Private Events 
+    url: privateevents/
+    weight: 60
+
