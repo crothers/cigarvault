@@ -7,7 +7,7 @@ main:
     url: /#top
     weight: 10
   - name: Lounges
-    url: /#lounges
+    url: lounges/
     weight: 20
     hasChildren: true
   - parent: Lounges
@@ -23,13 +23,10 @@ main:
     name: Bee Cave
     url: beecave/
   - name: Events
-    url: /#events
+    url: events/
     weight: 30
-  - name: Announcements
-    url: /#announcements
-    weight: 40
   - name: Featured Cigar Brands
-    weight: 50
+    weight: 40
     hasChildren: true
   - parent: Featured Cigar Brands
     name: Aladino
@@ -42,5 +39,5 @@ main:
     url: romacraft/
   - name: Private Events 
     url: privateevents/
-    weight: 60
+    weight: 50
 
