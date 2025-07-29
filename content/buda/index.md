@@ -1,5 +1,5 @@
 --- 
-title: 'East Austin'
+title: 'Buda'
 date: 2025-07-04
 type: landing
 
