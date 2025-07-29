@@ -37,11 +37,11 @@ sections:
   - block: markdown
     content:
       title: Hours
-      text: "- Monday 10 AM – 8 PM<br>
-          - Tuesday 10 AM – 9 PM<br>
-          - Wednesday 10 AM – 9 PM<br>
-          - Thursday 10 AM – 9 PM<br>
-          - Friday 10 AM – 10 PM<br>
-          - Saturday 10 AM – 10 PM<br>
-          - Sunday 10 AM – 8 PM<br>"
+      text: "* Monday 10 AM – 8 PM<br>
+          * Tuesday 10 AM – 9 PM<br>
+          * Wednesday 10 AM – 9 PM<br>
+          * Thursday 10 AM – 9 PM<br>
+          * Friday 10 AM – 10 PM<br>
+          * Saturday 10 AM – 10 PM<br>
+          * Sunday 10 AM – 8 PM<br>"
 ---

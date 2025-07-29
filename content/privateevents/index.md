@@ -11,15 +11,11 @@ sections:
   - block: hero
     content:
       title: After Hours at the Vault
-      text: "Bachelor parties - Birthdays - Celebration"
+      text: "Bachelor parties - Birthdays - Celebration<br><br>
+      The Cigar Vault hosts private events after hours at several of our venues.<br><br>"
       secondary_action:
-        text: Contact  with additional questions.
+        text: "Connect with us to create your next memorable moment."
         url: "mailto:privateevents@cigarvaulttexas.com"
-      announcement:
-        text: 
-        link:
-          text: "Read more"
-          url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -40,4 +36,14 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
+  - block: markdown
+    content:
+      title: "Private Events at the Cigar Vault include:"
+      text: "* a guided tour by a tobacconist<br>
+        * curated cigar selections<br>
+        * personal or personalized music playlists.<br>
+        * glasses, ice, and mixers<br>
+        * poker table, cards and chips<br><br>
+      After Hours events are BYOB, making them one of the best values in event space rentals.<br><br>
+      Cigar Vault provides a unique and curated experience for a night to remember.<br>"
 ---
