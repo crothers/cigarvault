@@ -1,34 +1,19 @@
----
+--- 
 title: 'East Austin'
 date: 2025-07-04
 type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "1rem"
 
 sections:
   - block: hero
     content:
       title: Cigar Vault East Austin
+      subtitle: test subtitle
       text: "2501 E Cesar Chavez St, Austin, TX 78702<br>
-      (512) 861-5400<br>
-      HOURS:<br>
-      Sunday 12–10 PM<br>
-      Monday 12–8 PM<br>
-      Tuesday 12–8 PM<br>
-      Wednesday 12–8 PM<br>
-      Thursday 12–10 PM<br>
-      Friday 12–11 PM<br>
-      Saturday 12–11 PM"
-      secondary_action:
-        text: Follow us on Instagram
-        url: "https://www.instagram.com/cigarvaulteast?igsh=MWFieXpoYzc3YTBpcw==/"
-      announcement:
-        text: 
-        link:
-          text: "Read more"
-          url: "/blog/"
+      (512) 861-5400<br><br>"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -48,5 +33,15 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       # Reduce spacing
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
+        padding: [0, 0, 0, 0]
+  - block: markdown
+    content:
+      title: Hours
+      text: "- Sunday 12–10 PM<br>
+          - Monday 12–8 PM<br>
+          - Tuesday 12–8 PM<br>
+          - Wednesday 12–8 PM<br>
+          - Thursday 12–10 PM<br>
+          - Friday 12–11 PM<br>
+          - Saturday 12–11 PM<br>"
 ---
