@@ -14,6 +14,9 @@ sections:
       subtitle: test subtitle
       text: "210 Main St, Buda, TX 78610<br>
       (512) 361-3289<br><br>"
+      primary_action:
+        text: Cigar Vault Buda Instagram
+        url: https://www.instagram.com/the_cigarvault_buda/?hl=en
     design:
       spacing:
         padding: [0, 0, 0, 0]

@@ -14,6 +14,9 @@ sections:
       subtitle: test subtitle
       text: "12703 State Hwy 71, Bee Cave, TX 78738<br>
       (512) 300-0027<br><br>"
+      primary_action:
+        text: Cigar Vault Bee Cave Instagram
+        url: https://www.instagram.com/cigarvault_beecave/?hl=en
     design:
       spacing:
         padding: [0, 0, 0, 0]

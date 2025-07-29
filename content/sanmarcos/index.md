@@ -14,6 +14,9 @@ sections:
       subtitle: test subtitle
       text: "122 N LBJ Dr, San Marcos, TX 78666<br>
       (512) 396-7473<br><br>"
+      primary_action:
+        text: Cigar Vault San Marcos Instagram
+        url: https://www.instagram.com/thecigarvaultsm/?hl=en
     design:
       spacing:
         padding: [0, 0, 0, 0]
