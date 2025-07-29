@@ -11,13 +11,14 @@ sections:
   - block: hero
     content:
       title: Cigar Vault Texas
-      text: Cigars   -   Conversation   -   Community
+      text: "Buda - East Austin - San Marcos - Bee Cave<br><br>
+      **Cigars + Conversation + Community**<br><br>"
       primary_action:
+        text: 
+        url: 
+      secondary_action:
         text: Cigar Vault Story
         url: "/story/"
-      secondary_action:
-        text: Join the Community
-        url: "/discord/"
       announcement:
         text: 
         link:
