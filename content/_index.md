@@ -24,7 +24,7 @@ sections:
         Learn our Story"
         url: "/story/"
       announcement:
-        text: Aladino Cigar event at Cigar Vault East Austin on 08.15.2025
+        text: "Aladino Cigars event on Friday, Aug. 15, featuring deals, swag and Justo Eiroa"
         link:
           text: Learn more
           url: "/events/20250815_ea_aladino/"

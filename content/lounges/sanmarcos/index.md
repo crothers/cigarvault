@@ -5,7 +5,9 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "1rem"
+  spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
 
 sections:
   - block: hero
@@ -27,16 +29,9 @@ sections:
         color: "black"
         image:
           # Add your image background to `assets/media/`.
-          # filename: smoke-cloud-png-isolated-on-black-background.jpg
           filename: smoke.svg
           filters:
             brightness: 0.5
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
   - block: markdown
     content:
       title: Hours
