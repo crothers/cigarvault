@@ -38,6 +38,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: markdown
+    id: hours
     content:
       title: Hours
       text: "* Sunday 12–10 PM<br>

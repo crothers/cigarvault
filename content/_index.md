@@ -5,7 +5,9 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
 
 sections:
   - block: hero
@@ -17,13 +19,15 @@ sections:
         text: 
         url: 
       secondary_action:
-        text: Cigar Vault Story
+        text: "Cigar Vault Texas is a collection of cigar lounges in unique Central Texas neighborhoods.<br>
+        We focus on boutique small-batch cigar brands and community.<br>
+        Learn our Story"
         url: "/story/"
       announcement:
-        text: 
+        text: Aladino Cigar event at Cigar Vault East Austin on 08.15.2025
         link:
-          text: "Read more"
-          url: "/blog/"
+          text: Learn more
+          url: "/events/20250815_ea_aladino/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -34,7 +38,6 @@ sections:
         color: "black"
         image:
           # Add your image background to `assets/media/`.
-          # filename: smoke-cloud-png-isolated-on-black-background.jpg
           filename: smoke.svg
           filters:
             brightness: 0.5
@@ -54,8 +57,6 @@ sections:
             community members
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: "dark"
       # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
 ---
