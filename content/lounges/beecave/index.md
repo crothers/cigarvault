@@ -5,7 +5,9 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "1rem"
+  spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
 
 sections:
   - block: hero
