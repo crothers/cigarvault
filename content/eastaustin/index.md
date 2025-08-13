@@ -1,5 +1,5 @@
 --- 
-title: 'Buda'
+title: 'East Austin'
 date: 2025-07-04
 type: landing
 
@@ -12,13 +12,13 @@ design:
 sections:
   - block: hero
     content:
-      title: Cigar Vault Buda
+      title: Cigar Vault East Austin
       subtitle: test subtitle
-      text: "210 Main St, Buda, TX 78610<br>
-      (512) 361-3289<br><br>"
+      text: "2501 E Cesar Chavez St, Austin, TX 78702<br>
+      (512) 861-5400<br><br>"
       primary_action:
-        text: Cigar Vault Buda Instagram
-        url: https://www.instagram.com/the_cigarvault_buda/?hl=en
+        text: Cigar Vault East Austin Instagram
+        url: https://www.instagram.com/cigarvaulteast/?hl=en
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -29,17 +29,18 @@ sections:
         color: "black"
         image:
           # Add your image background to `assets/media/`.
-          filename: smoke.svg
+          filename: cvea.jpg
           filters:
             brightness: 0.5
   - block: markdown
+    id: hours
     content:
       title: Hours
-      text: "* Monday 12 PM - 8 PM<br>
-          * Tuesday 10 AM - 9 PM<br>
-          * Wednesday 10 AM - 9 PM<br>
-          * Thursday 10 AM - 9 PM<br>
-          * Friday 10 AM - 10 PM<br>
-          * Saturday 10 AM - 10 PM<br>
-          * Saturday 12 PM - 10 PM<br>"
+      text: "* Sunday 12–10 PM<br>
+          * Monday 12–8 PM<br>
+          * Tuesday 12–8 PM<br>
+          * Wednesday 12–8 PM<br>
+          * Thursday 12–10 PM<br>
+          * Friday 12–11 PM<br>
+          * Saturday 12–11 PM<br>"
 ---

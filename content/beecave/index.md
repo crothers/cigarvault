@@ -1,5 +1,5 @@
 --- 
-title: 'East Austin'
+title: 'Bee Cave'
 date: 2025-07-04
 type: landing
 
@@ -12,13 +12,13 @@ design:
 sections:
   - block: hero
     content:
-      title: Cigar Vault East Austin
+      title: Cigar Vault Bee Cave
       subtitle: test subtitle
-      text: "2501 E Cesar Chavez St, Austin, TX 78702<br>
-      (512) 861-5400<br><br>"
+      text: "12703 State Hwy 71, Bee Cave, TX 78738<br>
+      (512) 300-0027<br><br>"
       primary_action:
-        text: Cigar Vault East Austin Instagram
-        url: https://www.instagram.com/cigarvaulteast/?hl=en
+        text: Cigar Vault Bee Cave Instagram
+        url: https://www.instagram.com/cigarvault_beecave/?hl=en
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -29,18 +29,17 @@ sections:
         color: "black"
         image:
           # Add your image background to `assets/media/`.
-          filename: smoke.svg
+          filename: cvbc.jpg
           filters:
             brightness: 0.5
   - block: markdown
-    id: hours
     content:
       title: Hours
-      text: "* Sunday 12–10 PM<br>
+      text: "* Sunday 12–8 PM<br>
           * Monday 12–8 PM<br>
           * Tuesday 12–8 PM<br>
           * Wednesday 12–8 PM<br>
-          * Thursday 12–10 PM<br>
-          * Friday 12–11 PM<br>
-          * Saturday 12–11 PM<br>"
+          * Thursday 12–8 PM<br>
+          * Friday 12–10 PM<br>
+          * Saturday 12–10 PM<br>"
 ---

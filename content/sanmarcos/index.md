@@ -1,5 +1,5 @@
 --- 
-title: 'Bee Cave'
+title: 'San Marcos'
 date: 2025-07-04
 type: landing
 
@@ -12,13 +12,13 @@ design:
 sections:
   - block: hero
     content:
-      title: Cigar Vault Bee Cave
+      title: Cigar Vault San Marcos
       subtitle: test subtitle
-      text: "12703 State Hwy 71, Bee Cave, TX 78738<br>
-      (512) 300-0027<br><br>"
+      text: "122 N LBJ Dr, San Marcos, TX 78666<br>
+      (512) 396-7473<br><br>"
       primary_action:
-        text: Cigar Vault Bee Cave Instagram
-        url: https://www.instagram.com/cigarvault_beecave/?hl=en
+        text: Cigar Vault San Marcos Instagram
+        url: https://www.instagram.com/thecigarvaultsm/?hl=en
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -29,17 +29,17 @@ sections:
         color: "black"
         image:
           # Add your image background to `assets/media/`.
-          filename: smoke.svg
+          filename: cvsm.jpg
           filters:
             brightness: 0.5
   - block: markdown
     content:
       title: Hours
-      text: "* Sunday 12–8 PM<br>
-          * Monday 12–8 PM<br>
-          * Tuesday 12–8 PM<br>
-          * Wednesday 12–8 PM<br>
-          * Thursday 12–8 PM<br>
-          * Friday 12–10 PM<br>
-          * Saturday 12–10 PM<br>"
+      text: "* Monday 10 AM – 8 PM<br>
+          * Tuesday 10 AM – 9 PM<br>
+          * Wednesday 10 AM – 9 PM<br>
+          * Thursday 10 AM – 9 PM<br>
+          * Friday 10 AM – 10 PM<br>
+          * Saturday 10 AM – 10 PM<br>
+          * Sunday 10 AM – 8 PM<br>"
 ---

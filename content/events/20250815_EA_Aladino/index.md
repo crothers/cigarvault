@@ -8,21 +8,6 @@ design:
   spacing: "1rem"
 
 sections:
-  - block: cta-image-paragraph
-    id: 20250815_EA_Aladino
-    content:
-      items:
-        - title: ""
-          text: ""
-          # Upload image to `assets/media/` and reference the filename here
-          image: cvea_250815_aladino.jpeg
-    design:
-      # Section background color (CSS class)
-      css_class: black
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
   - block: hero
     content:
       title: "Aladino Event<br>
@@ -38,4 +23,20 @@ sections:
       css_class: "dark"
       background:
         color: "black"
+  - block: cta-image-paragraph
+    id: 20250815_EA_Aladino
+    content:
+      items:
+        - title: ""
+          text: ""
+          # Upload image to `assets/media/` and reference the filename here
+          image: cvea_250815_aladino.jpeg
+          align: "center"
+    design:
+      # Section background color (CSS class)
+      css_class: black
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
 ---
