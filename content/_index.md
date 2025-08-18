@@ -24,10 +24,10 @@ sections:
         Learn our Story"
         url: "/story/"
       announcement:
-        text: "Aladino Cigars event on Friday, Aug. 15, featuring deals, swag and Justo Eiroa"
+        text: "Save the Date: 10/4. CV East Austin 5th Anniversary event "
         link:
           text: Learn more
-          url: "/events/20250815_ea_aladino/"
+          url: "/events/20251004_ea_5thanniversary/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
