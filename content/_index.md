@@ -24,7 +24,7 @@ sections:
         Learn our Story"
         url: "/story/"
       announcement:
-        text: "Save the Date: 10/4. CV East Austin 5th Anniversary event "
+        text: "Cigar Vault East Austin 5th Anniversary coming in October"
         link:
           text: Learn more
           url: "/events/20251004_ea_5thanniversary/"

@@ -14,7 +14,7 @@ sections:
       Cigar Vault East Austin"
       text: "Live Music - Free Beverages - Prizes<br>
       Cigar Reps from RoMa Craft, Definition, and OSOK<br>
-      10/4 Saturday 6 PM - 11 PM<br>
+      October<br>
       2501 E Cesar Chavez St, Austin, TX 78702"
     design:
       spacing:
