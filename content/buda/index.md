@@ -32,14 +32,19 @@ sections:
           filename: cvbu3.webp
           filters:
             brightness: 0.5
-  - block: markdown
+  - block: cta-image-paragraph
+    id: hours
     content:
-      title: Hours
-      text: "* Monday 12 PM - 8 PM<br>
-          * Tuesday 10 AM - 9 PM<br>
-          * Wednesday 10 AM - 9 PM<br>
-          * Thursday 10 AM - 9 PM<br>
-          * Friday 10 AM - 10 PM<br>
-          * Saturday 10 AM - 10 PM<br>
-          * Saturday 12 PM - 10 PM<br>"
+      items:
+        - title: Hours
+          feature_icon: bolt
+          features: 
+            - "Sunday 12 PM – 10 PM"
+            - "Monday 12 PM – 8 PM"
+            - "Tuesday 10 AM – 9 PM"
+            - "Wednesday 10 AM – 9 PM" 
+            - "Thursday 10 AM – 9 PM"
+            - "Friday 10 AM – 10 PM"
+            - "Saturday 10 AM – 10 PM"
+          image: cvbu3.jpg
 ---

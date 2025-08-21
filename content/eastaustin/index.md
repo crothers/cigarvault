@@ -32,15 +32,21 @@ sections:
           filename: cvea.jpg
           filters:
             brightness: 0.5
-  - block: markdown
+  - block: cta-image-paragraph
     id: hours
     content:
-      title: Hours
-      text: "* Sunday 12–10 PM<br>
-          * Monday 12–8 PM<br>
-          * Tuesday 12–8 PM<br>
-          * Wednesday 12–8 PM<br>
-          * Thursday 12–10 PM<br>
-          * Friday 12–11 PM<br>
-          * Saturday 12–11 PM<br>"
+      items:
+        - title: Hours
+          feature_icon: bolt
+          features: 
+            - "Sunday 12 PM – 10 PM"
+            - "Monday 12 PM – 8 PM"
+            - "Tuesday 12 PM – 8 PM"
+            - "Wednesday 12 PM – 8 PM" 
+            - "Thursday 12 PM – 10 PM"
+            - "Friday 12 PM – 11 PM"
+            - "Saturday 12 PM – 11 PM"
+          image: cvea.jpg
 ---
+#{{< instagram DJZKvDZNqOQ >}}
+
