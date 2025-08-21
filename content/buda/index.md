@@ -46,5 +46,5 @@ sections:
             - "Thursday 10 AM – 9 PM"
             - "Friday 10 AM – 10 PM"
             - "Saturday 10 AM – 10 PM"
-          image: cvbu3.jpg
+          image: cvbu3.webp
 ---
