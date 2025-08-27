@@ -27,7 +27,7 @@ sections:
         text: "Cigar Vault East Austin 5th Anniversary coming in October"
         link:
           text: Learn more
-          url: "/events/20251010_ea_5thanniversary/"
+          url: "/events/20251010_ea/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
