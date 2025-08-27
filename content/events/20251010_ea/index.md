@@ -1,6 +1,6 @@
 --- 
 title: 'Cigar Vault East Austin 5th Anniversary Party'
-date: 2025-10-04
+date: 2025-10-10
 type: landing
 
 design:
@@ -28,5 +28,5 @@ sections:
           # Add your image background to `assets/media/`.
           filename: cvea.jpg
           filters:
-            brightness: 0.5
+            brightness: 0.5        
 ---
