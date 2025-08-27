@@ -1,6 +1,6 @@
 --- 
-title: 'Cigar Vault East Austin 5th Anniversary Party'
-date: 2025-10-10
+title: 'Cigar Vault East Austin 5th Anniversary Party October 10'
+date: 2025-08-25
 type: landing
 
 design:

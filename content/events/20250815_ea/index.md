@@ -1,6 +1,6 @@
 --- 
-title: ''
-date: 2025-08-15
+title: 'Aladino Event at Cigar Vault East Austin Aug 15 2025'
+date: 2025-07-01
 type: landing
 
 design:
