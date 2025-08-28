@@ -12,16 +12,16 @@ main:
     hasChildren: true
   - parent: Lounges
     name: Buda
-    url: buda/
+    url: lounges/buda/
   - parent: Lounges
     name: East Austin
-    url: eastaustin/
+    url: lounges/eastaustin/
   - parent: Lounges
     name: San Marcos
-    url: sanmarcos/
+    url: lounges/sanmarcos/
   - parent: Lounges
     name: Bee Cave
-    url: beecave/
+    url: lounges/beecave/
   - name: Events
     url: events/
     weight: 30
@@ -30,13 +30,13 @@ main:
     hasChildren: true
   - parent: Featured Cigar Brands
     name: Aladino
-    url: aladino/
+    url: https://www.jretobacco.com/portfolio/aladino/
   - parent: Featured Cigar Brands
     name: Definition
-    url: definition/
+    url: https://definitioncigars.com/our-cigars/
   - parent: Featured Cigar Brands
     name: RoMa Craft
-    url: romacraft/
+    url: https://romacrafttobac.com/
   - name: Private Events 
     url: privateevents/
     weight: 50
