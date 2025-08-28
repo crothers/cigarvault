@@ -48,5 +48,3 @@ sections:
             - "Saturday 12 PM – 11 PM"
           image: cvea.jpg
 ---
-#{{< instagram DJZKvDZNqOQ >}}
-
