@@ -1,0 +1,54 @@
+--- 
+title: Cigar Vault Events
+date: 2025-07-04
+type: landing
+
+design:
+  # Default section spacing
+  spacing: "1rem"
+
+sections:
+  - block: collection
+    id: events
+    content:
+      title: Cigar Vault Events
+      subtitle: ''
+      text: 'Join us for special events at our lounges'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - events
+        lounge: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      # Choose a listing view
+      view: card
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+      # For full-screen, add `min-h-screen` below
+      css_class: "dark"
+      background:
+        color: "black"
+        image:
+          # Add your image background to `assets/media/`.
+          filename: smoke.svg
+          filters:
+            brightness: 0.5
+
+---
