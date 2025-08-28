@@ -22,9 +22,9 @@ main:
   - parent: Lounges
     name: Bee Cave
     url: lounges/beecave/
-  - name: Events
-    url: events/
-    weight: 30
+#  - name: Events
+#    url: events/
+#    weight: 30
   - name: Featured Cigar Brands
     weight: 40
     hasChildren: true

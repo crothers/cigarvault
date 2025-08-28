@@ -14,7 +14,7 @@ marketing:
     site_type: Business
     local_business_type: ''
     org_name: ''
-    description: 'Cigar Vault Texas is a collection of cigar lounges in unique Central Texas neighborhoods focusing on boutique, small-batch cigar brands and community.'
+    description: 'Cigar Vault Texas is a collection of cigar lounges in unique Central Texas neighborhoods focusing on boutique, small-batch brands and community.'
     twitter: 'CigarVaultTexas'
   analytics:
     google_analytics: ''
@@ -44,7 +44,13 @@ header:
       icon: brands/discord
     show_search: true
     show_theme_chooser: true
+    enable_social_icons_in_navbar: true
 
+social:
+  - icon: discord
+    icon_pack: brands
+    link: 'https://discord.gg/AHzrj9Uxzw'
+    
 # Site footer
 footer:
   copyright:
